@@ -1,5 +1,5 @@
 #include<stdio.h>
-#inlcude<stdlib.h>
+#include<stdlib.h>
 
 char ch;
 scanf("%c",&ch);
