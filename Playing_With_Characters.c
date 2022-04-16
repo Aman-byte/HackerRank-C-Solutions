@@ -1,3 +1,6 @@
+#include<stdio.h>
+#inlcude<stdlib.h>
+
 char ch;
 scanf("%c",&ch);
 char s[20];
